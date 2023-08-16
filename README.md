@@ -144,7 +144,7 @@ LLM 应用程序以及如何在 Ray 上微调/训练/服务 LLM 的信息，请�
 日参加 Ray
 [Summit](https://raysummit.anyscale.com/)！我们有一组出色的主题演讲者，包括来自
 OpenAI 的 John Schulman 和来自 Cohere 的 Aidan Gomez、有关 Ray
-的社区和技术演讲以及[针对法学硕士的实践培训](https://github.com/ray-project/ray-educational-materials/blob/main/NLP_workloads/Text_generation/LLM_finetuning_and_batch_inference.ipynb)。
+的社区和技术演讲以及[针对LLM的实践培训](https://github.com/ray-project/ray-educational-materials/blob/main/NLP_workloads/Text_generation/LLM_finetuning_and_batch_inference.ipynb)。
 
 <!-- Footnotes themselves at the bottom. -->
 
