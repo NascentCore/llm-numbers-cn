@@ -1,4 +1,4 @@
-# 每个 LLM 开发人员都应该知道的数字
+# 每个大模型开发者都应该知道的数字
 
 翻译自 https://github.com/ray-project/llm-numbers
 
