@@ -113,6 +113,15 @@ transformers](https://www.sbert.net/docs/pretrained_models.html#sentence-embeddi
 
 ![image](https://github.com/NascentCore/llm-numbers-cn/assets/138741722/a8430e41-fcd1-4630-a4b6-603a318bc51a)
 
+# 专有名称中英文对照表
+
+|    中文    |   英文    |
+| :--------: | :-------: |
+| 大语言模型 |    LLM    |
+|   提示词   |  prompt   |
+|    词元    |   token   |
+|    嵌入    | embedding |
+|    微调    | fine-tune |
 
 # 下一步
 
