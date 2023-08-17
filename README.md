@@ -111,7 +111,8 @@ transformers](https://www.sbert.net/docs/pretrained_models.html#sentence-embeddi
 
 # 速查表
 
-![image](https://github.com/NascentCore/llm-numbers-cn/assets/138741722/a8430e41-fcd1-4630-a4b6-603a318bc51a)
+![4dbe44b9656b5fc7299d37dde478973](https://github.com/NascentCore/llm-numbers-cn/assets/138741722/c17ffd72-92e2-48ec-a4da-c6ed4ad1a897)
+
 
 # 专有名称中英文对照表
 
