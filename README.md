@@ -112,7 +112,7 @@ transformers](https://www.sbert.net/docs/pretrained_models.html#sentence-embeddi
 
 |    中文    |   英文    |
 | :--------: | :-------: |
-| 大语言模型 |    LLM    |
+|   大模型   |    LLM    |
 |   提示词   |  prompt   |
 |    词元    |   token   |
 |    微调    | fine-tune |
@@ -125,9 +125,9 @@ transformers](https://www.sbert.net/docs/pretrained_models.html#sentence-embeddi
 
 要与 Ray 社区建立联系，请加入[Ray Slack](https://docs.google.com/forms/d/e/1FAIpQLSfAcoiLCHOguOm8e7Jnn-JJdZaCxPGjgVCvFijHB5PLaQLeig/viewform)或我们的[讨论论坛](https://discuss.ray.io/)上的 #LLM 。 
 
-如果您对我们用于 ML 训练和服务的 Ray 托管服务感兴趣，请访问[Anyscale.com/Platform](http://www.anyscale.com/platform)并单击“立即尝试”按钮
+如果您对我们用于 ML 训练和服务的 Ray 部署服务感兴趣，请访问[Anyscale.com/Platform](http://www.anyscale.com/platform)并单击“立即尝试”按钮
 
-**Ray Summit 2023**如果您有兴趣了解更多有关 Ray 如何用于构建高性能和可扩展的 LLM 应用程序以及如何在 Ray 上微调/训练/服务 LLM 的信息，请参加 9 月 18 日至 20 日参加 Ray [Summit](https://raysummit.anyscale.com/)！我们有一组出色的主题演讲者，包括来自 OpenAI 的 John Schulman 和来自 Cohere 的 Aidan Gomez、有关 Ray 的社区和技术演讲以及[针对LLM的实训](https://github.com/ray-project/ray-educational-materials/blob/main/NLP_workloads/Text_generation/LLM_finetuning_and_batch_inference.ipynb)。
+**Ray Summit 2023**如果你有兴趣了解更多有关 Ray 如何用于构建高性能和可扩展的大模型应用程序以及如何在 Ray 上微调/训练/服务 LLM 的信息，请参加 9 月 18 日至 20 日参加 Ray [Summit](https://raysummit.anyscale.com/)！我们有一群出色的主题演讲者，包括来自 OpenAI 的 John Schulman 和来自 Cohere 的 Aidan Gomez、有关 Ray 的社区和技术演讲以及[针对LLM的实训](https://github.com/ray-project/ray-educational-materials/blob/main/NLP_workloads/Text_generation/LLM_finetuning_and_batch_inference.ipynb)。
 
 <!-- Footnotes themselves at the bottom. -->
 
