@@ -103,7 +103,7 @@ transformers](https://www.sbert.net/docs/pretrained_models.html#sentence-embeddi
 
 # 速查表
 
-![4dbe44b9656b5fc7299d37dde478973](https://github.com/NascentCore/llm-numbers-cn/blob/main/images/Cheatsheet.png)
+![4dbe44b9656b5fc7299d37dde478973](images/Cheatsheet.png)
 
 
 
